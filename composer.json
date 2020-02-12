@@ -1,7 +1,7 @@
 {
-  "name": "ahmedsamy/codeception-smtp-mail",
-  "description": "Test emails in your Codeception acceptance tests",
-  "homepage": "https://github.com/AhmedSamy/codeception-smtp-mail",
+  "name": "jamontes79/codeception-smtp-mail",
+  "description": "Test emails in your Codeception acceptance tests - Forked from ahmedsamy/codeception-smtp-mail",
+  "homepage": "https://github.com/jamontes79/codeception-smtp-mail",
   "license": "MIT",
   "keywords": [
     "gmail",
